@@ -4,18 +4,9 @@
 
 ![Osmotic Experience](https://osmotic.layogtima.com/osmotic.png)
 
-## 🧘‍♀️ Overview
-
 Osmotic is an interactive web-based experience that combines gentle visuals with responsive audio to create a state of digital mindfulness. There is no goal, no winning, and no losing—simply existing within a space of ambient tranquility.
 
 It's my constellation of purposefully peculiar projects that blend technology with audio.
-
-
-## ✨ Experience
-
-- **Absorb Elements**: Move your cursor or touch to guide your entity through the space, absorbing luminous elements that drift throughout the environment.
-- **Ambient Evolution**: As you absorb elements, the environment subtly responds—colors shift, sounds evolve, and your presence leaves ephemeral trails.
-- **Meditative Audio**: Each absorption triggers unique tones based on color harmonics, creating an ever-evolving soundscape unique to your journey.
 
 ## 🎮 How to Play
 
@@ -24,6 +15,12 @@ It's my constellation of purposefully peculiar projects that blend technology wi
 3. Move your cursor (or finger on touch devices) across the screen
 4. Simply exist within the space, absorbing elements at your leisure
 5. There is no end—disconnect whenever you feel complete
+
+## ✨ Experience
+
+- **Absorb Elements**: Move your cursor or touch to guide your entity through the space, absorbing luminous elements that drift throughout the environment.
+- **Ambient Evolution**: As you absorb elements, the environment subtly responds—colors shift, sounds evolve, and your presence leaves ephemeral trails.
+- **Meditative Audio**: Each absorption triggers unique tones based on color harmonics, creating an ever-evolving soundscape unique to your journey.
 
 ## 🔊 Audio Experience
 
