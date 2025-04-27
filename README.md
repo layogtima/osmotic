@@ -2,7 +2,7 @@
 
 **A meditative journey of digital absorption and ambient serenity.**
 
-![Osmotic Experience](https://via.placeholder.com/800x400?text=Osmotic+Experience)
+![Osmotic Experience](https://osmotic.layogtima.com/osmotic.png)
 
 ## 🧘‍♀️ Overview
 
