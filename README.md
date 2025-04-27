@@ -57,8 +57,13 @@ Osmotic uses the Web Audio API to create a responsive soundscape that evolves wi
 
 Osmotic draws inspiration from the concepts of flow states, ambient music, generative art, and the Japanese philosophy of "Ma" (間)—the meaningful pause or negative space within form.
 
----
+
+## ⚖️ License
+This is an open creative project under GPL v3. Feel free to fork, modify, and enhance it. Pull requests welcome!
+
+Made with 💜 in Bengaluru, India by:
+- Amartha (Absurd Industries' Machine companion)
+- Claude 3.7
+- Amit
 
 *"In the absorption of elements, we find ourselves absorbed in the moment."*
-
-Created with ❤️ by Layogtima and Amrtha.
